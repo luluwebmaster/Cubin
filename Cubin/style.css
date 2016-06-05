@@ -1,0 +1,139 @@
+body, html
+{
+	text-align:center;
+	margin:0px;
+	padding:0px;
+	font-size:0;
+	-moz-user-select:none;
+	-webkit-user-select:none;
+	-ms-user-select:none;
+	-o-user-select:none;
+	user-select:none;
+	font-family:Arial;
+}
+input, select, textarea
+{
+	outline:none;
+}
+.g-frame
+{
+	width:600px;
+	height:600px;
+	background-color:#f8f9a9;
+	display:inline-block;
+	padding:10px;
+}
+.gf-pixel
+{
+	display:inline-block;
+	background-color:white;
+	margin:0px;
+	padding:0px;
+	cursor:url("http://www.rw-designer.com/cursor-view/14464.png") 6 8, auto;
+	color:white;
+}
+.g-panel
+{
+	text-align:center;
+	display:inline-block;
+	vertical-align:top;
+	max-width:356px;
+}
+.colorpicker
+{
+	background-color:#121212;
+}
+.gp-button span
+{
+	width:178px;
+	padding:10px;
+	font-size:18px;
+	font-weight:bold;
+	display:inline-block;
+	background-color:rgba(0,0,0,1);
+	color:white;
+	cursor:pointer;
+	box-sizing:border-box;
+}
+.gp-button span:hover
+{
+	background-color:rgba(0,0,0,0.4);
+}
+.gp-speed
+{
+	width:356px;
+	max-width:356px;
+	background-color:#5a5a5a;
+	display:inline-block;
+}
+.gp-title
+{
+	width:336px;
+	max-width:356px;
+	display:inline-block;
+	padding:10px;
+	font-size:18px;
+	font-weight:bold;
+	display:inline-block;
+	background-color:#454545;
+	color:white;
+}
+.gp-speed input
+{
+	padding:10px;
+	padding-left:0px;
+	padding-right:0px;
+	cursor:pointer;
+	width:300px !important;
+}
+.gp-new, .gp-pixels
+{
+	width:356px;
+	max-width:356px;
+	background-color:#454545;
+	display:inline-block;
+	padding:10px;
+	border:0px;
+	box-sizing:border-box;
+	color:white;
+}
+.gp-new_submit
+{
+	width:356px;
+	padding:10px;
+	font-size:18px;
+	font-weight:bold;
+	display:inline-block;
+	background-color:rgba(0,0,0,1);
+	color:white;
+	cursor:pointer;
+	box-sizing:border-box;
+}
+.gp-new_submit:hover
+{
+	background-color:rgba(0,0,0,0.4);
+}
+.gp-select, .gp-frame
+{
+	width:356px;
+	max-width:356px;
+	border:0px;
+	padding:10px;
+	cursor:pointer;
+	background-color:#5a5a5a;
+	display:inline-block;
+	color:white;
+}
+.gp-import
+{
+	width:356px;
+	max-width:356px;
+	border:0px;
+	padding:10px;
+	cursor:pointer;
+	background-color:#5a5a5a;
+	display:inline-block;
+	color:white;
+	box-sizing:border-box;
+	cursor:pointer;
+}
