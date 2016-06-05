@@ -15,8 +15,8 @@ Technologies utilisées :
 
 Article complet :
 
-- 
+- http://www.luluwebmaster.fr/creation-49/cubin-dessiner-en-html-et-js.htm
 
 Tester Cubin : 
 
-- 
+- http://frame.luluwebmaster.fr/?code=878f90b1bef7f006fc8a135b59662fe1
